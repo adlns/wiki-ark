@@ -1,0 +1,26 @@
+site_name: Wiki ARK
+theme:
+  name: material
+nav:
+  - Accueil: index.md
+  - 🦖 Créatures:
+      - T-Rex: creatures/t-rex.md
+      - Argentavis: creatures/argentavis.md
+      - Giganotosaure: creatures/giganotosaure.md
+      - Wyverne: creatures/wyverne.md
+      - Boss : Dragon: creatures/boss-dragon.md
+      - Volants: creatures/volants.md
+      - Marins: creatures/marins.md
+      - Fantastiques: creatures/fantastiques.md
+  - ⚔️ Équipements:
+      - Fusil à pompe: equipements/fusil-a-pompe.md
+      - Arc composite: equipements/arc-composite.md
+      - Fusil Tek: equipements/fusil-tek.md
+      - Lance-flammes: equipements/lance-flammes.md
+      - Armure en chitine: equipements/armure-chitine.md
+      - Armure Tek: equipements/armure-tek.md
+      - Selle de T-Rex: equipements/selle-trex.md
+      - Plateforme de Bronto: equipements/plateforme-bronto.md
+      - Pioche en métal: equipements/pioche-metal.md
+  - 🛠️ Commandes Admin:
+      - Commandes d’objets: admin/commandes-objets.md
