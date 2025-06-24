@@ -26,4 +26,8 @@ Bienvenue sur le wiki non officiel de **ARK: Survival Evolved**, où vous trouve
 ## 🔗 Ressources utiles
 
 - [Site officiel ARK](https://ark.wiki.gg/)
+<<<<<<< HEAD
 - [Steam ARK](https://store.steampowered.com/app/346110/ARK_Survival_Evolved/)
+=======
+- [Steam ARK](https://store.steampowered.com/app/346110/ARK_Survival_Evolved/)
+>>>>>>> c8d3e03d3f2b3c69f28a034cf4fc97cfe86185f9
